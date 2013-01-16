@@ -10,4 +10,4 @@ Colorful, dark color scheme based on the excellent Jellybeans color scheme for V
 
 Copy `Boron.tmTheme` to you default `../Sublime Text 2/Packages/User` directory.
 
-Or use the [Sublime Package Control](http://wbond.net/sublime_packages/package_control) plugin. The package is called Boron.
+Or use the [Sublime Package Control](http://wbond.net/sublime_packages/package_control) plugin. The package is called `Boron.tmTheme`.

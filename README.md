@@ -1,6 +1,6 @@
 # Boron
 
-### Sublime Text 2 Color Scheme
+### Sublime Text 2/3 Color Scheme
 
 Colorful, dark color scheme based on the excellent Jellybeans color scheme for Vim.
 

@@ -7,7 +7,7 @@
   <key>website</key>
   <string>https://github.com/mjio/boron.tmtheme</string>
   <key>comment</key>
-  <string>Last update: Nov 16 2012</string>
+  <string>Last update: Feb 13 2013</string>
   <key>settings</key>
   <array>
     <dict>
@@ -68,6 +68,18 @@
 
     <dict>
       <key>name</key>
+      <string>Symbol</string>
+      <key>scope</key>
+      <string>constant.other</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#7697d6</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
       <string>Regexp</string>
       <key>scope</key>
       <string>string.regexp</string>
@@ -82,11 +94,11 @@
       <key>name</key>
       <string>Variable</string>
       <key>scope</key>
-      <string>variable</string>
+      <string>variable, support.class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#c6b6ee</string>
+        <string>#ffb964</string>
       </dict>
     </dict>
 

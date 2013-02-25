@@ -7,7 +7,7 @@
   <key>website</key>
   <string>https://github.com/mjio/boron.tmtheme</string>
   <key>comment</key>
-  <string>Last update: Feb 13 2013</string>
+  <string>Last update: Feb 25 2013</string>
   <key>settings</key>
   <array>
     <dict>
@@ -154,7 +154,7 @@
       <key>name</key>
       <string>Diff insertion</string>
       <key>scope</key>
-      <string>markup.inserted.diff, meta.diff.header.to-file</string>
+      <string>diff.inserted, markup.inserted</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -166,7 +166,7 @@
       <key>name</key>
       <string>Diff deletion</string>
       <key>scope</key>
-      <string>markup.deleted.diff, meta.diff.header.from-file</string>
+      <string>diff.deleted, markup.deleted</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -178,7 +178,7 @@
       <key>name</key>
       <string>Diff header</string>
       <key>scope</key>
-      <string>meta.diff.header.from-file, meta.diff.header.to-file</string>
+      <string>meta.diff.header</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -199,6 +199,18 @@
         <string>italic</string>
         <key>foreground</key>
         <string>#888888</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Diff changed</string>
+      <key>scope</key>
+      <string>markup.changed</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#967efb</string>
       </dict>
     </dict>
 
